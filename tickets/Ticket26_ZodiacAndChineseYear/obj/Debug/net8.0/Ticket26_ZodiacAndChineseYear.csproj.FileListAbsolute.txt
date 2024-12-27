@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/bin/Debug/net8.0/Ticket26_ZodiacAndChineseYear
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/bin/Debug/net8.0/Ticket26_ZodiacAndChineseYear.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/bin/Debug/net8.0/Ticket26_ZodiacAndChineseYear.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/bin/Debug/net8.0/Ticket26_ZodiacAndChineseYear.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/bin/Debug/net8.0/Ticket26_ZodiacAndChineseYear.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/refint/Ticket26_ZodiacAndChineseYear.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/Ticket26_ZodiacAndChineseYear.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket26_ZodiacAndChineseYear/obj/Debug/net8.0/ref/Ticket26_ZodiacAndChineseYear.dll
