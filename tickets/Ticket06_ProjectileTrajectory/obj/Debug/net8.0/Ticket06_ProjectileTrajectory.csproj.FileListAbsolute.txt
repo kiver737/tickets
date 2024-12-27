@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/bin/Debug/net8.0/Ticket06_ProjectileTrajectory
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/bin/Debug/net8.0/Ticket06_ProjectileTrajectory.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/bin/Debug/net8.0/Ticket06_ProjectileTrajectory.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/bin/Debug/net8.0/Ticket06_ProjectileTrajectory.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/bin/Debug/net8.0/Ticket06_ProjectileTrajectory.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/refint/Ticket06_ProjectileTrajectory.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/Ticket06_ProjectileTrajectory.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket06_ProjectileTrajectory/obj/Debug/net8.0/ref/Ticket06_ProjectileTrajectory.dll
