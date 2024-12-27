@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/bin/Debug/net8.0/Ticket18_TemperatureAnalysis
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/bin/Debug/net8.0/Ticket18_TemperatureAnalysis.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/bin/Debug/net8.0/Ticket18_TemperatureAnalysis.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/bin/Debug/net8.0/Ticket18_TemperatureAnalysis.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/bin/Debug/net8.0/Ticket18_TemperatureAnalysis.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/refint/Ticket18_TemperatureAnalysis.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/Ticket18_TemperatureAnalysis.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket18_TemperatureAnalysis/obj/Debug/net8.0/ref/Ticket18_TemperatureAnalysis.dll
