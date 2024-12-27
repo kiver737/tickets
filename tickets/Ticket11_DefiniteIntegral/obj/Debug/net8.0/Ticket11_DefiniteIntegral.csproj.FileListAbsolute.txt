@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/bin/Debug/net8.0/Ticket11_DefiniteIntegral
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/bin/Debug/net8.0/Ticket11_DefiniteIntegral.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/bin/Debug/net8.0/Ticket11_DefiniteIntegral.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/bin/Debug/net8.0/Ticket11_DefiniteIntegral.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/bin/Debug/net8.0/Ticket11_DefiniteIntegral.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/refint/Ticket11_DefiniteIntegral.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/Ticket11_DefiniteIntegral.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket11_DefiniteIntegral/obj/Debug/net8.0/ref/Ticket11_DefiniteIntegral.dll
