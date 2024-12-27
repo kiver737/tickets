@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ticket03_OOP_Inheritance/1.0.0": {
+        "runtime": {
+          "Ticket03_OOP_Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket03_OOP_Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

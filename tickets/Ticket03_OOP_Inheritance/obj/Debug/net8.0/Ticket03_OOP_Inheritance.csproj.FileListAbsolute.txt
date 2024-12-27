@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/bin/Debug/net8.0/Ticket03_OOP_Inheritance
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/bin/Debug/net8.0/Ticket03_OOP_Inheritance.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/bin/Debug/net8.0/Ticket03_OOP_Inheritance.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/bin/Debug/net8.0/Ticket03_OOP_Inheritance.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/bin/Debug/net8.0/Ticket03_OOP_Inheritance.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/refint/Ticket03_OOP_Inheritance.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/Ticket03_OOP_Inheritance.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket03_OOP_Inheritance/obj/Debug/net8.0/ref/Ticket03_OOP_Inheritance.dll
