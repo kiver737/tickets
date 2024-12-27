@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ticket20_MatrixAnalysis/1.0.0": {
+        "runtime": {
+          "Ticket20_MatrixAnalysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket20_MatrixAnalysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

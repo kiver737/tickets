@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/bin/Debug/net8.0/Ticket20_MatrixAnalysis
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/bin/Debug/net8.0/Ticket20_MatrixAnalysis.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/bin/Debug/net8.0/Ticket20_MatrixAnalysis.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/bin/Debug/net8.0/Ticket20_MatrixAnalysis.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/bin/Debug/net8.0/Ticket20_MatrixAnalysis.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/refint/Ticket20_MatrixAnalysis.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/Ticket20_MatrixAnalysis.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket20_MatrixAnalysis/obj/Debug/net8.0/ref/Ticket20_MatrixAnalysis.dll
