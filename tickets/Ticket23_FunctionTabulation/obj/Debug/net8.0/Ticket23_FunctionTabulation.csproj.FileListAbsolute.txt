@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/bin/Debug/net8.0/Ticket23_FunctionTabulation
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/bin/Debug/net8.0/Ticket23_FunctionTabulation.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/bin/Debug/net8.0/Ticket23_FunctionTabulation.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/bin/Debug/net8.0/Ticket23_FunctionTabulation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/bin/Debug/net8.0/Ticket23_FunctionTabulation.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/refint/Ticket23_FunctionTabulation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/Ticket23_FunctionTabulation.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket23_FunctionTabulation/obj/Debug/net8.0/ref/Ticket23_FunctionTabulation.dll
