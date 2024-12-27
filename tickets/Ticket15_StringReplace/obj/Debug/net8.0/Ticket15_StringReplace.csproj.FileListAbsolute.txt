@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/bin/Debug/net8.0/Ticket15_StringReplace
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/bin/Debug/net8.0/Ticket15_StringReplace.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/bin/Debug/net8.0/Ticket15_StringReplace.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/bin/Debug/net8.0/Ticket15_StringReplace.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/bin/Debug/net8.0/Ticket15_StringReplace.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/refint/Ticket15_StringReplace.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/Ticket15_StringReplace.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket15_StringReplace/obj/Debug/net8.0/ref/Ticket15_StringReplace.dll
