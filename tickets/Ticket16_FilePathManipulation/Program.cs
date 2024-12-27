@@ -37,13 +37,11 @@ namespace Ticket16_FilePathManipulation
 
                 Console.WriteLine($"\nНовый путь к файлу: {newFilePath}");
 
-                // Перемещение файла в корневой каталог
-                string rootFilePath = Path.Combine(drive, Path.GetFileName(newFilePath));
-
-                // Копирование файла в новый путь
+                // Перемещение файла в доступный каталог (например, Documents)
+                string rootFilePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), Path.GetFileName(newFilePath));
                 File.Copy(filePath, rootFilePath, overwrite: true);
 
-                Console.WriteLine($"Новый путь к файлу в корневом каталоге: {rootFilePath}");
+                Console.WriteLine($"Новый путь к файлу в каталоге Documents: {rootFilePath}");
             }
             catch (Exception ex)
             {
