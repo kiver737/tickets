@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/bin/Debug/net8.0/Ticket10_StudentGrades
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/bin/Debug/net8.0/Ticket10_StudentGrades.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/bin/Debug/net8.0/Ticket10_StudentGrades.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/bin/Debug/net8.0/Ticket10_StudentGrades.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/bin/Debug/net8.0/Ticket10_StudentGrades.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/refint/Ticket10_StudentGrades.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/Ticket10_StudentGrades.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket10_StudentGrades/obj/Debug/net8.0/ref/Ticket10_StudentGrades.dll

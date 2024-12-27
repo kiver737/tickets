@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ticket10_StudentGrades/1.0.0": {
+        "runtime": {
+          "Ticket10_StudentGrades.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket10_StudentGrades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
