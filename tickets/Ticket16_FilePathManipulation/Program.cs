@@ -10,9 +10,9 @@ namespace Ticket16_FilePathManipulation
             Console.Write("Введите абсолютный путь к файлу: ");
             string filePath = Console.ReadLine();
 
-            if (!Path.IsPathFullyQualified(filePath))
+            if (!File.Exists(filePath))
             {
-                Console.WriteLine("Некорректный путь к файлу.");
+                Console.WriteLine("Файл не найден.");
                 return;
             }
 
@@ -39,6 +39,10 @@ namespace Ticket16_FilePathManipulation
 
                 // Перемещение файла в корневой каталог
                 string rootFilePath = Path.Combine(drive, Path.GetFileName(newFilePath));
+
+                // Копирование файла в новый путь
+                File.Copy(filePath, rootFilePath, overwrite: true);
+
                 Console.WriteLine($"Новый путь к файлу в корневом каталоге: {rootFilePath}");
             }
             catch (Exception ex)
