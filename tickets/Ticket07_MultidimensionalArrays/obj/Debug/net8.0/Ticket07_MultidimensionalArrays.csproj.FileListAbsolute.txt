@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/bin/Debug/net8.0/Ticket07_MultidimensionalArrays
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/bin/Debug/net8.0/Ticket07_MultidimensionalArrays.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/bin/Debug/net8.0/Ticket07_MultidimensionalArrays.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/bin/Debug/net8.0/Ticket07_MultidimensionalArrays.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/bin/Debug/net8.0/Ticket07_MultidimensionalArrays.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/refint/Ticket07_MultidimensionalArrays.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/Ticket07_MultidimensionalArrays.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket07_MultidimensionalArrays/obj/Debug/net8.0/ref/Ticket07_MultidimensionalArrays.dll
