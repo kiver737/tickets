@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/bin/Debug/net8.0/tickets
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/bin/Debug/net8.0/tickets.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/bin/Debug/net8.0/tickets.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/bin/Debug/net8.0/tickets.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/bin/Debug/net8.0/tickets.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/refint/tickets.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/tickets.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/Debug/net8.0/ref/tickets.dll
