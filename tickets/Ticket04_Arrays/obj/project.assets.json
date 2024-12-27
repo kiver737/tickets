@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket04_Arrays.csproj",
+      "projectUniqueName": "/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket04_Arrays/Ticket04_Arrays.csproj",
       "projectName": "Ticket04_Arrays",
-      "projectPath": "/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket04_Arrays.csproj",
+      "projectPath": "/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket04_Arrays/Ticket04_Arrays.csproj",
       "packagesPath": "/Users/vladislavperfilev/.nuget/packages/",
-      "outputPath": "/Users/vladislavperfilev/RiderProjects/tickets/tickets/obj/",
+      "outputPath": "/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket04_Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladislavperfilev/.nuget/NuGet/NuGet.Config"
