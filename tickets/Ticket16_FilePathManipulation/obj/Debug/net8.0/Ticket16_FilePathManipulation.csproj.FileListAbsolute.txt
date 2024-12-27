@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/bin/Debug/net8.0/Ticket16_FilePathManipulation
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/bin/Debug/net8.0/Ticket16_FilePathManipulation.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/bin/Debug/net8.0/Ticket16_FilePathManipulation.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/bin/Debug/net8.0/Ticket16_FilePathManipulation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/bin/Debug/net8.0/Ticket16_FilePathManipulation.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/refint/Ticket16_FilePathManipulation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/Ticket16_FilePathManipulation.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket16_FilePathManipulation/obj/Debug/net8.0/ref/Ticket16_FilePathManipulation.dll
