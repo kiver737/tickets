@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/bin/Debug/net8.0/Ticket19_MatrixFormation
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/bin/Debug/net8.0/Ticket19_MatrixFormation.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/bin/Debug/net8.0/Ticket19_MatrixFormation.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/bin/Debug/net8.0/Ticket19_MatrixFormation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/bin/Debug/net8.0/Ticket19_MatrixFormation.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/refint/Ticket19_MatrixFormation.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/Ticket19_MatrixFormation.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket19_MatrixFormation/obj/Debug/net8.0/ref/Ticket19_MatrixFormation.dll
