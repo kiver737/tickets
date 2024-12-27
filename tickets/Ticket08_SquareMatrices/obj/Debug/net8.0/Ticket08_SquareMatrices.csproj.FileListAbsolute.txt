@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/bin/Debug/net8.0/Ticket08_SquareMatrices
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/bin/Debug/net8.0/Ticket08_SquareMatrices.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/bin/Debug/net8.0/Ticket08_SquareMatrices.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/bin/Debug/net8.0/Ticket08_SquareMatrices.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/bin/Debug/net8.0/Ticket08_SquareMatrices.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/refint/Ticket08_SquareMatrices.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/Ticket08_SquareMatrices.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket08_SquareMatrices/obj/Debug/net8.0/ref/Ticket08_SquareMatrices.dll
