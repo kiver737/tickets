@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ticket21_GuessTheNumber/1.0.0": {
+        "runtime": {
+          "Ticket21_GuessTheNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket21_GuessTheNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

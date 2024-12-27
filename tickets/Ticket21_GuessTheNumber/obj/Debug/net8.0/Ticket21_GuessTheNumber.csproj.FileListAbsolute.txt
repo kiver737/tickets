@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/bin/Debug/net8.0/Ticket21_GuessTheNumber
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/bin/Debug/net8.0/Ticket21_GuessTheNumber.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/bin/Debug/net8.0/Ticket21_GuessTheNumber.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/bin/Debug/net8.0/Ticket21_GuessTheNumber.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/bin/Debug/net8.0/Ticket21_GuessTheNumber.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/refint/Ticket21_GuessTheNumber.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/Ticket21_GuessTheNumber.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket21_GuessTheNumber/obj/Debug/net8.0/ref/Ticket21_GuessTheNumber.dll
