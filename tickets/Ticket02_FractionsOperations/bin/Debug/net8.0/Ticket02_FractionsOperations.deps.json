@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ticket02_FractionsOperations/1.0.0": {
+        "runtime": {
+          "Ticket02_FractionsOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket02_FractionsOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

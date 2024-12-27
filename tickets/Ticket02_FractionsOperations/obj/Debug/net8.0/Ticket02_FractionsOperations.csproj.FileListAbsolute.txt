@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/bin/Debug/net8.0/Ticket02_FractionsOperations
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/bin/Debug/net8.0/Ticket02_FractionsOperations.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/bin/Debug/net8.0/Ticket02_FractionsOperations.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/bin/Debug/net8.0/Ticket02_FractionsOperations.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/bin/Debug/net8.0/Ticket02_FractionsOperations.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/refint/Ticket02_FractionsOperations.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/Ticket02_FractionsOperations.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket02_FractionsOperations/obj/Debug/net8.0/ref/Ticket02_FractionsOperations.dll
