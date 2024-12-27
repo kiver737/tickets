@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/bin/Debug/net8.0/Ticket22_FileNumberProcessing
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/bin/Debug/net8.0/Ticket22_FileNumberProcessing.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/bin/Debug/net8.0/Ticket22_FileNumberProcessing.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/bin/Debug/net8.0/Ticket22_FileNumberProcessing.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/bin/Debug/net8.0/Ticket22_FileNumberProcessing.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/refint/Ticket22_FileNumberProcessing.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/Ticket22_FileNumberProcessing.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket22_FileNumberProcessing/obj/Debug/net8.0/ref/Ticket22_FileNumberProcessing.dll

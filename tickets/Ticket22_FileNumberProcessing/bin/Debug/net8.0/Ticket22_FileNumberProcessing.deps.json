@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ticket22_FileNumberProcessing/1.0.0": {
+        "runtime": {
+          "Ticket22_FileNumberProcessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ticket22_FileNumberProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
