@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/bin/Debug/net8.0/Ticket09_TextFiles
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/bin/Debug/net8.0/Ticket09_TextFiles.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/bin/Debug/net8.0/Ticket09_TextFiles.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/bin/Debug/net8.0/Ticket09_TextFiles.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/bin/Debug/net8.0/Ticket09_TextFiles.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/refint/Ticket09_TextFiles.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/Ticket09_TextFiles.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket09_TextFiles/obj/Debug/net8.0/ref/Ticket09_TextFiles.dll
