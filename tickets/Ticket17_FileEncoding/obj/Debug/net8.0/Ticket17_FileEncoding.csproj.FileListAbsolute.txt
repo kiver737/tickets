@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/bin/Debug/net8.0/Ticket17_FileEncoding
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/bin/Debug/net8.0/Ticket17_FileEncoding.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/bin/Debug/net8.0/Ticket17_FileEncoding.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/bin/Debug/net8.0/Ticket17_FileEncoding.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/bin/Debug/net8.0/Ticket17_FileEncoding.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/refint/Ticket17_FileEncoding.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/Ticket17_FileEncoding.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_FileEncoding/obj/Debug/net8.0/ref/Ticket17_FileEncoding.dll
