@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/bin/Debug/net8.0/Ticket17_TestProgram
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/bin/Debug/net8.0/Ticket17_TestProgram.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/bin/Debug/net8.0/Ticket17_TestProgram.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/bin/Debug/net8.0/Ticket17_TestProgram.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/bin/Debug/net8.0/Ticket17_TestProgram.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/refint/Ticket17_TestProgram.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/Ticket17_TestProgram.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket17_TestProgram/obj/Debug/net8.0/ref/Ticket17_TestProgram.dll
