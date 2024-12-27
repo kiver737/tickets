@@ -1,0 +1,14 @@
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/bin/Debug/net8.0/Ticket25_StringSearchReplace
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/bin/Debug/net8.0/Ticket25_StringSearchReplace.deps.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/bin/Debug/net8.0/Ticket25_StringSearchReplace.runtimeconfig.json
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/bin/Debug/net8.0/Ticket25_StringSearchReplace.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/bin/Debug/net8.0/Ticket25_StringSearchReplace.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.AssemblyInfoInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.AssemblyInfo.cs
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.csproj.CoreCompileInputs.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/refint/Ticket25_StringSearchReplace.dll
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.pdb
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/Ticket25_StringSearchReplace.genruntimeconfig.cache
+/Users/vladislavperfilev/RiderProjects/tickets/tickets/Ticket25_StringSearchReplace/obj/Debug/net8.0/ref/Ticket25_StringSearchReplace.dll
